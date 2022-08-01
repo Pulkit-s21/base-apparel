@@ -1,1 +1,1 @@
-# fm-base-apparel
+# base-apparel
